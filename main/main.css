@@ -1,0 +1,18 @@
+@import url ('https://fonts.googleapis.com/css?family=Montserrat');
+
+body {
+  margin: 30px auto;
+  max-width: 1000px;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5;
+  padding: 30px 20px;
+  text-align: center;
+}
+
+/*style>*/
+body {
+  background-image: url("/images/Indexbkgd.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/*</style>*/
