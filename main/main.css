@@ -1,7 +1,7 @@
 @import url ('https://fonts.googleapis.com/css?family=Montserrat');
 
 body {
-  margin: 30px auto;
+  margin: 200px auto;
   max-width: 1000px;
   font-family: 'Montserrat', sans-serif;
   line-height: 1.5;
@@ -16,3 +16,7 @@ body {
   background-size: cover;
 }
 /*</style>*/
+
+h1 {
+  padding: 20px 0px 10px 0px;
+}
