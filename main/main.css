@@ -21,23 +21,3 @@ body {
 h1 {
   padding: 20px 0px 10px 0px;
 }
-
-a:link {
-  color: white;
-  text-decoration: none;
-}
-
-a:visited {
-  color: white;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #B38854;
-  text-decoration: none;
-}
-
-a:active {
-  color: #B38854;
-  text-decoration: none;
-}
