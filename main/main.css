@@ -21,4 +21,9 @@ body {
 
 h1 {
   padding: 20px 0px 10px 0px;
+  display: inline;
+}
+
+h2 {
+  padding: 20px 0px 10px 0px;
 }
