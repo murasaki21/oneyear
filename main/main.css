@@ -28,6 +28,9 @@ h1 {
   padding: 20px 0px 10px 0px;
 }
 
+.header{
+  color:black
+}
 a:link {
   color: white;
   text-decoration: none;
